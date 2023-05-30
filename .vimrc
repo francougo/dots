@@ -2,8 +2,9 @@
 filetype plugin on
 filetype indent on
 let g:tex_flavor='latex'
+" modificacion de prueba
 
-" vim-latex config
+" vim-latex config 
 let g:Tex_CustomTemplateDirectory='/home/franco/LaTex/templates/'
 let g:Tex_ViewRule_pdf='zathura'
 
